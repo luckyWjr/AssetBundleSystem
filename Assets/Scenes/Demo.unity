@@ -416,35 +416,35 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
-    - target: {fileID: 224080636991856306, guid: 118e50cbd0fb96142aac6848639f1a2d,
-        type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -480.93994
-      objectReference: {fileID: 0}
-    - target: {fileID: 224080636991856306, guid: 118e50cbd0fb96142aac6848639f1a2d,
-        type: 2}
-      propertyPath: m_LocalPosition.y
-      value: -276.10968
-      objectReference: {fileID: 0}
-    - target: {fileID: 224146563119724482, guid: 118e50cbd0fb96142aac6848639f1a2d,
-        type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -430.93994
-      objectReference: {fileID: 0}
-    - target: {fileID: 224146563119724482, guid: 118e50cbd0fb96142aac6848639f1a2d,
-        type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 326.10968
-      objectReference: {fileID: 0}
     - target: {fileID: 224098828869531312, guid: 118e50cbd0fb96142aac6848639f1a2d,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: -580.93994
+      value: -182.15417
       objectReference: {fileID: 0}
     - target: {fileID: 224098828869531312, guid: 118e50cbd0fb96142aac6848639f1a2d,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 326.10968
+      value: 73.34741
+      objectReference: {fileID: 0}
+    - target: {fileID: 224146563119724482, guid: 118e50cbd0fb96142aac6848639f1a2d,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -32.154175
+      objectReference: {fileID: 0}
+    - target: {fileID: 224146563119724482, guid: 118e50cbd0fb96142aac6848639f1a2d,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 73.34741
+      objectReference: {fileID: 0}
+    - target: {fileID: 224080636991856306, guid: 118e50cbd0fb96142aac6848639f1a2d,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -82.154175
+      objectReference: {fileID: 0}
+    - target: {fileID: 224080636991856306, guid: 118e50cbd0fb96142aac6848639f1a2d,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -23.347412
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 118e50cbd0fb96142aac6848639f1a2d, type: 2}
